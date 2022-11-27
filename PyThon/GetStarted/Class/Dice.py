@@ -9,16 +9,18 @@ from random import randint
 
 
 class Dice:
+    seerry = 100
+
     def __init__(self, side=6):
         self.side = side
+        self.name = "NaN"
 
     def roll_dice(self) -> int:
         return randint(0, self.side)
-    
-    
 
 
 a_dice = Dice()
+print(Dice.seerry)
 for _ in range(0, 10):
     print(a_dice.roll_dice())
 
@@ -29,3 +31,5 @@ for _ in range(0, 10):
 c_dice = Dice(20)
 for _ in range(0, 10):
     print(c_dice.roll_dice())
+
+d_dice = Dice()

@@ -18,3 +18,9 @@
 
 -   Python | Index of Non-Zero elements in Python list
     https://www.geeksforgeeks.org/python-index-of-non-zero-elements-in-python-list/?ref=rp
+
+-   OOP
+    https://realpython.com/python3-object-oriented-programming/
+
+-   Slide 1
+    https://www.slideshare.net/sujithkumar9212301/oop-in-pyhton-new?qid=a81a17d8-9861-40d5-b0ed-67d31ba33180&v=&b=&from_search=2
