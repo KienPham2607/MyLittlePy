@@ -1,0 +1,10 @@
+Class: 10A5
+Semester: II
+Year: 2022
+
+Name        Math    Literature      English
+Minh        10      6               7
+Lan         9       7               8
+Hung        7       9               9
+Trung       7       6               6
+Thanh       3       8               7
